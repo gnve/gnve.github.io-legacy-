@@ -21,7 +21,7 @@ entries:
  - title: projects
     post_list:
       limit: 5
-#      category: example2
+#       category: example2
       show_more: false
 #      show_more_text: See more projects...
 #      show_more_url: example2-archive.html
