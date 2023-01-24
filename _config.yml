@@ -36,7 +36,9 @@ favicon: "favicon.png" # name+extension of favicon (which must be put on the roo
 # theme: no-style-please
 remote_theme: riggraz/no-style-please
 plugins:
-  - jekyll-feed
+  - jekyll-feed  
+exclude: [_drafts]
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
