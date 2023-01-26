@@ -9,7 +9,7 @@ entries:
         url: https://www.linkedin.com/in/genevereyes/
       - title: github
         url: https://github.com/gnve
-#      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+#     - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: projects
     post_list:
@@ -18,10 +18,10 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
- - title: posts
+   - title: posts
     post_list:
       limit: 10
-#       category: example2
+#      category: example2
       show_more: true
 #      show_more_text: See more projects...
 #      show_more_url: example2-archive.html
