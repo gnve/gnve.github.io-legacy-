@@ -10,16 +10,16 @@ entries:
 
   - title: projects
     post_list:
-      limit: 5
-      show_more: false
+      limit: 10
+      show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
   - title: posts
     post_list:
-      limit: 10
+      limit: 5
 #      category: example2
-      show_more: true
+      show_more: false
 #      show_more_text: See more projects...
 #      show_more_url: example2-archive.html
 
